@@ -1,4 +1,3 @@
-import urlBuilder from '@sanity/image-url';
 import React from 'react';
 
 const BackgroundImage = ({ children }) => {
